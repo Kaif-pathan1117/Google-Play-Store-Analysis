@@ -99,18 +99,19 @@ cd google-play-store-analysis
 
 Here are some key visualizations from the analysis:
 
-* **Top 10 Categories by Installs**
-  ![Categories_by_install](Pic_1.png)
+## 📊 Results
 
-  
+Here are some key visualizations from the analysis:
 
-* **Distribution of Free vs Paid Apps**
-  ![Distribution_of_Free_VS_Paid](Pic_2.png)
+### Top 10 Categories by Installs
+![Top 10 Categories by Installs](Pic_1.png)
 
+### Distribution of Free vs Paid Apps
+![Distribution of Free vs Paid Apps](Pic_2.png)
 
+### Correlation Heatmap
+![Correlation Heatmap](Pic_3.png)
 
-* **Correlation Heatmap**
-  ![Correlation_Heatmap](Pic_3.png)
 
 
 
